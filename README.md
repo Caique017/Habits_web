@@ -3,6 +3,8 @@
 Habit creation project to help you in everyday life.
 <hr>
 
+<img src="./Web/src/assets/Habits_screen.gif">
+
 ### How to run the project:
 
 **You can clone the project and run it locally following the steps below**
